@@ -819,6 +819,13 @@ header .navbar a:hover{
       width:100%;
     }
 
+    #try{
+  margin: 12% 0 10% 0;
+}
+.partitions{
+  grid-gap: 50px;
+}
+    
   }
 
 @media  (max-width:400px){
